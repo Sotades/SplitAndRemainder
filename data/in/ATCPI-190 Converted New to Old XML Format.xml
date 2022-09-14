@@ -1,0 +1,56 @@
+<?xml version='1.0' ?>
+<GMT_Alma_Global_Accounting xmlns="urn:alma:fi:Global">
+    <Accounting>
+        <AccountingHeader>
+            <HeaderText>Kirjavalitys-2022-23</HeaderText>
+            <Company>30</Company>
+            <DocumentDate>20220823</DocumentDate>
+            <PostingDate>20220823</PostingDate>
+            <DocumentType>LV</DocumentType>
+        </AccountingHeader>
+
+        <GeneralLedgerAccountItem>
+            <ItemNo>1</ItemNo>
+            <Account>308041</Account>
+            <TaxCode>M8</TaxCode>
+            <InternalOrder>A141565</InternalOrder>
+            <Material>205440</Material>
+            <DocumentValue Currency="EUR" Sign="-">108.70</DocumentValue>
+        </GeneralLedgerAccountItem>
+        <GeneralLedgerAccountItem>
+            <ItemNo>2</ItemNo>
+            <Account>290005</Account>
+            <TaxCode>VA</TaxCode>
+            <DocumentValue Currency="EUR" Sign="+">108.70</DocumentValue>
+        </GeneralLedgerAccountItem>
+        <GeneralLedgerAccountItem>
+            <ItemNo>3</ItemNo>
+            <Account>308041</Account>
+            <TaxCode>M8</TaxCode>
+            <InternalOrder>A142295</InternalOrder>
+            <Material>205439</Material>
+            <DocumentValue Currency="EUR" Sign="-">109.70</DocumentValue>
+        </GeneralLedgerAccountItem>
+        <GeneralLedgerAccountItem>
+            <ItemNo>4</ItemNo>
+            <Account>290005</Account>
+            <TaxCode>VA</TaxCode>
+            <DocumentValue Currency="EUR" Sign="+">109.70</DocumentValue>
+        </GeneralLedgerAccountItem>
+        <GeneralLedgerAccountItem>
+            <ItemNo>5</ItemNo>
+            <Account>308041</Account>
+            <TaxCode>M8</TaxCode>
+            <InternalOrder>A141468</InternalOrder>
+            <Material>203210</Material>
+            <DocumentValue Currency="EUR" Sign="+">110.70</DocumentValue>
+        </GeneralLedgerAccountItem>
+        <GeneralLedgerAccountItem>
+            <ItemNo>6</ItemNo>
+            <Account>290005</Account>
+            <TaxCode>VA</TaxCode>
+            <DocumentValue Currency="EUR" Sign="-">110.70</DocumentValue>
+        </GeneralLedgerAccountItem>
+
+    </Accounting>
+</GMT_Alma_Global_Accounting>

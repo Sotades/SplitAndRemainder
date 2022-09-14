@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cpi-mock-msg-v2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../lib/sap/cpi/cpi-mock-msg-v2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
